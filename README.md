@@ -30,14 +30,14 @@
 ### 📚 Continuous Learning
 
 I'm always eager to learn new technologies and improve my skills. Currently, I'm exploring:
-- [New technology or framework you're learning]
-- [Another area of interest]
+- TypeScript & Angular
+- CI/CD and Operations
 
 ### 📫 Let's Connect!
 
 - LinkedIn: [Vu Viet Tung](https://www.linkedin.com/in/tungvv210/)
 - GitHub: [viettungvu](https://github.com/viettungvu)
-- Email: [viettungtvhd](viettungtvhd@gmail.com)
+- Email: [viettungtvhd](mailto:viettungtvhd@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project or just chat about web development!
 ![viettungvu's Stats](https://github-readme-stats.vercel.app/api?username=viettungvu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
